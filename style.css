@@ -1,0 +1,22 @@
+
+table.square {
+    border-collapse: collapse;
+}
+
+
+table.square {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+table td {
+    border: 1px solid black;
+    width: 3em;
+    height: 3em;
+}
+
+table th {
+    border: 1px solid black;
+    width: 3em;
+    height: 3em;
+}
